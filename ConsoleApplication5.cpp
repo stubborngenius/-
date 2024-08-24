@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//решение задачи мячик на лесенке 
+#include <iostream>
 using namespace std;
 int ans = 0;
 void jump(int n, int pos) {
